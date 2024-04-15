@@ -1,4 +1,6 @@
-# Karplus-Strong-Algorithm
+# karplus_strong
 Karplus Strong Algorithm and Chord generator app
 
-To see the contents of this repository, please get in touch with me and I will send you the project code.
+Utilises the Kaprlus-Strong algorithm to model the sound of a string. Implementation includes the basic and modified algorithm (with all pass filter)
+
+`app.m` is a chord generator MATLAB app with additional audio effects.
